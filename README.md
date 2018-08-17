@@ -10,6 +10,10 @@
     - [Medium - Interview with Dr.Richard Sutton: we might have strong AI algorithms by 2030](https://medium.com/syncedreview/interview-with-dr-richard-sutton-we-might-have-strong-ai-algorithms-by-2030-a1052332d878)
     - [KDnuggests - Exclusive: Interview with Rich Sutton, the Father of Reinforcement Learning](https://www.kdnuggets.com/2017/12/interview-rich-sutton-reinforcement-learning.html)
 
+# Học Reinforcement như thế nào?
+
+To be defined
+
 
 # Tài liệu học tập:
 
@@ -33,7 +37,7 @@ Ví dụ chọn bài toán kinh điển "cho taxi đi đón và trả khách" t�
 - Xem video minh hoạ ở bên phải của page
 - Xem bài toán gốc được trình bày bởi Thomas G. Dietterich ở paper [Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition](https://www.jair.org/index.php/jair/article/view/10266), mục 3.1 A Motivating Example. 
 - Xem hướng dẫn áp dụng environment "Taxi-v2" như thế nào (sử dụng Jupiter Notebook) tại [đây](https://www.oreilly.com/learning/introduction-to-reinforcement-learning-and-openai-gym)
-- Xem source code của "taxi-v2" tại [đây](https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py). Chính là link ở cuối trang https://gym.openai.com/envs/Taxi-v2/
+- Xem source code của environment "taxi-v2" tại [đây](https://github.com/openai/gym/blob/master/gym/envs/toy_text/taxi.py). Chính là link ở cuối trang https://gym.openai.com/envs/Taxi-v2/
 
 ## Ví dụ mẫu để học
 
