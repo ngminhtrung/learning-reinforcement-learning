@@ -74,5 +74,6 @@ Ví dụ chọn bài toán kinh điển "cho taxi đi đón và trả khách" t�
             - Assignment kèm solution. 
         - Slide bài giảng không đơn thuần tóm tắt lại textbook, mà thêm cả suy luận và kiến thức của Emma Brunskill. Vì thế tốt nhất nên đọc cả textbook lẫn slide song song.
         - Assignment gồm cả phần viết (suy luận + toán), kèm code.
+    - Tham khảo thêm bài giảng trong 2 tiếng của Emma Brunskill *A Tutorial on Reinforcement Learning* ở [đây cho phần 1](https://simons.berkeley.edu/talks/emma-brunskill-01-24-2017-1), và [đây cho phần 2](https://www.youtube.com/watch?v=8hK0NnG_DhY)    
     
 - [MOOC Coursera: Machine Learning and Reinforcement Learning in Finance Specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance): Miễn phí cho audit. 
